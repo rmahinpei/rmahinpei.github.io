@@ -3,21 +3,15 @@ body {
     background-size: cover;
     background-image: url("images/background.png");
 }
-.navbar {
+.navBar {
     text-align: center;
     font-size: 16px;
 }
-.detail {
-    list-style-type: circle;
-    margin-left: 2em;
-    font-size: 15px;
+.centered {
+    display: flex;
+    justify-content: center;
 }
-.extra-detail{
-    list-style-type: square;
-    margin-left: 4em; 
-    font-size: 13px;
-}
-.images {
+.worldImage {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -26,3 +20,38 @@ body {
     margin-left: 2em;
     font-size: 15px;
 }
+.detail {
+    list-style-type: circle;
+    margin-left: 2em;
+    font-size: 15px;
+}
+.extraDetail{
+    list-style-type: square;
+    margin-left: 4em; 
+    font-size: 13px;
+}
+.btn { 
+    background-color: rgba(175, 174, 174, 0.89);
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+    transition-duration: 0.4s;
+}
+.btn:hover {
+    background-color: gray;
+}
+.img { 
+    background-color: rgba(175, 174, 174, 0.89);
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+    transition-duration: 0.4s;
+}
+.img:hover {
+    background-color: gray;
+}
+
