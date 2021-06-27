@@ -1,0 +1,2 @@
+# Purpose
+To expand my programming skills during the summer of 2021, I decided to use HTML, CSS, and JS to build my first personal website! I mainly used this [Microsoft learning module](https://docs.microsoft.com/en-us/learn/modules/develop-web-apps-with-vs-code/) as a guide to help me get started.
