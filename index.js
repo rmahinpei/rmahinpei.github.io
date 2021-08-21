@@ -2,7 +2,7 @@
 
 const email = document.querySelector('.btn');
 email.addEventListener('click', function() {
-    window.open("mailto:[romina.mahinpei@gmail.com]");
+    window.open("mailto:[romina.mahinpei@yahoo.com]");
 });
 
 const img = document.querySelector('.img');

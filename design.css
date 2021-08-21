@@ -1,57 +1,120 @@
 body {
-    font-family: Verdana;
-    background-size: cover;
-    background-image: url("images/background.png");
+    height: 100%;
+    width: 100vw;
+    margin: 0;
+    display: inline-flex;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-.navBar {
+h1 {
     text-align: center;
-    font-size: 16px;
+    font-size: 40px;
+    color: white;
+}
+a {
+    color: rgb(243, 227, 137);
 }
 .centered {
-    display: flex;
     justify-content: center;
 }
-.worldImage {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.mainNavBar {
+    display: inline-block;
+    width: 25vw;
+    min-height: 100vh;
+    background-image: url("images/stars.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
 }
-.description {
-    margin-left: 2em;
-    font-size: 15px;
+.otherNavBar {
+    display: none;
 }
-.detail {
-    list-style-type: circle;
-    margin-left: 2em;
-    font-size: 15px;
+.profilePhoto {
+    margin-top: 5px;
+    height: 150px;
+    width: 150px; 
+    border-radius: 50%;  
 }
-.extraDetail{
-    list-style-type: square;
-    margin-left: 4em; 
-    font-size: 13px;
+.myName {
+    color: rgb(247, 247, 247);
+    font-size: 25px;
+    margin-top: 15px;
+    margin-bottom: 5px;
 }
-.btn { 
-    background-color: rgba(175, 174, 174, 0.89);
+.contacts {
+    color: white;
+    margin-bottom: 10px;
+}
+.emailBtn { 
+    background-color: rgba(6, 2, 15, 0.89);
     height: 40px;
     width: 100px;
     border-radius: 10px;
     border: none;
     text-align: center;
     transition-duration: 0.4s;
+    color: white;
 }
-.btn:hover {
-    background-color: gray;
+.emailBtn:hover {
+    background-color: rgb(15, 19, 78);
 }
-.img { 
-    background-color: rgba(175, 174, 174, 0.89);
-    height: 40px;
-    width: 200px;
-    border-radius: 10px;
-    border: none;
+.mainContent {
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 15px;
+    width: 75vw;
+    min-height: 100vh;
+    color: white;
+    background-image: linear-gradient(black, rgb(6, 6, 44));
+}
+.myPages {
+    font-size: 20px;
+    color: white;
     text-align: center;
-    transition-duration: 0.4s;
 }
-.img:hover {
-    background-color: gray;
+.myProject {
+    font-style: italic;
+    margin-bottom: 5px;
+    color: rgb(175, 233, 233);
+}
+.description {
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
+@media screen and (max-width:980px) {
+    body {
+        display: block;
+    }
+    h1 {
+        margin-top: 0;
+        padding-top: 15px;
+    }
+    .mainNavBar {
+        display: none;
+    }
+    .otherNavBar {
+        display: block;
+        text-align: center;
+        width: 100vw;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background-image: url("images/stars.jpeg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .myName {
+        padding-bottom: 10px;
+        margin-bottom: 0;
+    }
+    .mainContent {
+        min-height: 550px;
+        padding: 0;
+        padding-bottom: 15px;
+        width: 100vw;
+        background-image: linear-gradient(rgb(6, 6, 44), black);
+    }
+    .webText {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
