@@ -15,6 +15,7 @@ a {
 }
 .centered {
     justify-content: center;
+    text-align: center;
 }
 .mainNavBar {
     display: inline-block;
