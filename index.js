@@ -5,6 +5,12 @@ email.addEventListener('click', function() {
     window.open("mailto:[romina.mahinpei@yahoo.com]");
 });
 
+const quotes = [ 
+    { quote: 'Assets', person: 'Anonymous'},
+    { quote: 'Hey', person: 'Another anonymous'}
+]
+
+
 const img = document.querySelector('.img');
 let backgroundCheck = "url('images/background.png')"; 
 img.addEventListener('click', function() {
