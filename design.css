@@ -56,7 +56,7 @@ a {
     color: white;
 }
 .emailBtn:hover {
-    background-color: rgb(15, 19, 78);
+    background-color: rgba(26, 13, 58, 0.89);
 }
 .mainContent {
     padding-left: 35px;
@@ -80,6 +80,25 @@ a {
 .description {
     margin-top: 0;
     margin-bottom: 0;
+}
+#quote {
+    color:white;
+    text-align: center;
+    font-style: italic;
+    color: rgb(175, 233, 233);
+}
+.quoteBtn {
+    background-color: rgb(161, 206, 221);
+    height: 1cm;
+    width: 3.8cm;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+    transition-duration: 0.4s;
+    color: black;
+}
+.quoteBtn:hover {
+    background-color: rgb(129, 170, 184);
 }
 
 @media screen and (max-width:980px) {
