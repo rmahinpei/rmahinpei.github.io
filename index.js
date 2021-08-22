@@ -5,7 +5,7 @@ email.addEventListener('click', function() {
     window.open("mailto:[romina.mahinpei@yahoo.com]");
 });
 
-const quotes = ["Your attitude determines your altitude.",, 
+const quotes = ["Your attitude determines your altitude.", 
                 "Practice like you’ll play.",
                 "Fail early, learn quickly.",
                 "Nothing worth having comes easy.",
