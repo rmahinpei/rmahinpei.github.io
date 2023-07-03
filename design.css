@@ -3,7 +3,7 @@ body {
     width: 100vw;
     margin: 0;
     display: inline-flex;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family:'Garamond';
 }
 h1 {
     text-align: center;
@@ -85,10 +85,10 @@ a {
     color:white;
     text-align: center;
     font-style: italic;
-    color: rgb(175, 233, 233);
+    color: rgb(244,228,140)
 }
 .quoteBtn {
-    background-color: rgb(161, 206, 221);
+    background-color: rgb(244,228,140);
     height: 1cm;
     width: 3.8cm;
     border-radius: 10px;
@@ -98,7 +98,7 @@ a {
     color: black;
 }
 .quoteBtn:hover {
-    background-color: rgb(129, 170, 184);
+    background-color: rgb(243, 220, 88);
 }
 
 @media screen and (max-width:980px) {
