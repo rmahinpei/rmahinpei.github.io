@@ -45,11 +45,14 @@
                 At a high-level, formal methods apply mathematical thinking to computational systems. This usually involves rigorously <b>specifying</b> a system using a modelling language and then formally <b>verifying</b> the specified properties of that system. 
                 A common application of formal methods is to verify that hardware and software systems are error-free.
                 Although slightly outdated, <a href="https://users.ece.cmu.edu/~koopman/des_s99/formal_methods/">Michael Collins's article on formal methods</a> is a great introduction on what formal methods are all about and is a highly recommended read for anyone who's new to this topic. 
+                Jeremy Avigad also has a <a href="https://avigad.github.io/formal_methods_in_education/">curated list of useful resources</a> for learning and/or teaching formal methods.
                 <br>
                 <br>
-                Below is a recommended list of talks and papers relating to the applications of interactive theorem provers, especially for educational purposes.
+                Below is my personal recommended list of talks and papers relating to the applications of interactive theorem provers, especially for educational purposes.
+                To learn more broadly about computing education research (CER), I recommend checking out Amy Ko's <a href= "https://faculty.washington.edu/ajko/cer#conferences-and-journals">curated list of conferences and journals</a> that publish CER.
                 <h3 style="margin-bottom: 1px">Recommended Talks</h3>
                 <ul>
+                    <li style="margin-bottom: 5px"><a href="https://youtu.be/3WBUHEVr56c">Introduction to the Coq Proof Assistant</a>: A 2010 talk by Andrew Appel that first briefly introduces the process to formally proving a theorem and the high-level overview on how theorem provers work before jumping into the specific features of Coq by going through tactics and examples. </li>
                     <li style="margin-bottom: 5px"><a href="https://youtu.be/IOiZatlZtGU">Propositions as Types</a>: A 2015 talk by Philip Wadler on the correspondence between mathematical logic and programming languages. The main takeaway was that propositions, proofs, and similification of proofs in logic accordingly correspond to types, programs, and evaluation of programs in programming languages. </li>
                     <li style="margin-bottom: 5px"><a href="https://youtu.be/0olimWS0SsM">Teaching Proofs to Computers</a>: A 2020 talk by Kevin Buzzard on the use of interactive theorem provers within mathematics. Buzzard is a huge advocate for using proof assistants, such as Lean, as a part of undergraduate mathematics curriculums in order to enable students to better understand proof structures and get automatic feedback on their work.</li>
                     <li style="margin-bottom: 5px"><a href="https://youtu.be/56IIrBZy9Rc">Formal Methods for the Informal Engineer - The Z3 Theorem Prover</a>: A 2021 talk by Phil Zucker on the Z3 Theorem Prover. Although the talk mainly focuses on using Z3 via a Python API, there are also small sections discussing what formal methods are all about and how theorem provers work.</li>
@@ -57,7 +60,14 @@
                 </ul>
                 <h3 style="margin-bottom: 1px">Recommended Papers</h3>
                 <ul>
-                    <li style="margin-bottom: 5px"><a href="https://dl.acm.org/doi/10.1145/3105726.3106184">Theorem Provers as a Learning Tool in Theory of Computation</a></li>
+                    <li style="margin-bottom: 5px"><a href="https://dl.acm.org/doi/10.1145/3105726.3106184">Theorem Provers as a Learning Tool in Theory of Computation</a>: A 2017 educational design paper investigating whether and how the Coq Theorem Prover can be used as a learning tool within introductory theory of computation courses. The authors specifically designed a course on computational theory that relied on a mix of Coq proofs as well as traditional pen-and-paper proofs and collected qualitative, observational data during the process. Based on their findings, interactive theorem provers can indeed be leveraged for teaching purposes. They even concluded that their students were more motivated to work with Coq proofs in comparison to their traditional counterparts thanks to immediate feedback provided by Coq and the similarities to the programming-debugging cycle.
+                    Some questions that I still have after reading the paper:
+                    </li>
+                    <ul style="padding-bottom: 0;">
+                        <li style="margin-left:5px">Why was Coq chosen as the interactive theorem prover for this purpose? What was the main rationale?</li>
+                        <li style="margin-left:5px; margin-bottom: 5px;">Have there been any follow-up efforts in formalizing automata theory and creating pre-defined tactics?</li>
+                    </ul>
+                    <li style="margin-bottom: 5px"><a href="https://www.tandfonline.com/doi/full/10.1080/0020739X.2023.2178981">Interactive theorem provers for university mathematics - an exploratory study of students' perceptions</a></li>
                 </ul>
             </div>
         </div>
