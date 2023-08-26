@@ -43,13 +43,14 @@
                 <br>
                 <br>
                 At a high-level, formal methods apply mathematical thinking to computational systems. This usually involves rigorously <b>specifying</b> a system using a modelling language and then formally <b>verifying</b> the specified properties of that system. 
-                A common application of formal methods is to verify that hardware and software systems are error-free.
+                There are two broad approaches to formal verification. The first is <b>model checking</b>, which requires that a finite model of a system is developed so that a <b>model checker</b> is can then explore the state space and determine whether a desired property is satisfied.
+                The second is <b>theorem proving</b>, which requires that the system is specified with appropriate mathematical logic so that a <b>theorem prover</b> can then verify the properties of the system.
+                More specifically, theorem provers are generally classified either as an <b>automated theorem prover (ATP)</b> or an <b>interactive theorem prover (ITP)</b>. The main job of ATPs is to <i>find</i> the proof of a theorem while the main job of ITPs is to <i>verify</i> an already provided proof of a theorem via human-computer interactions.
+                <br>
+                <br>
                 Although slightly outdated, <a href="https://users.ece.cmu.edu/~koopman/des_s99/formal_methods/">Michael Collins's article on formal methods</a> is a great introduction on what formal methods are all about and is a highly recommended read for anyone who's new to this topic. 
                 Jeremy Avigad also has a <a href="https://avigad.github.io/formal_methods_in_education/">curated list of useful resources</a> for learning and/or teaching formal methods.
-                <br>
-                <br>
-                Below is my personal recommended list of talks and papers relating to the applications of interactive theorem provers, especially for educational purposes.
-                To learn more broadly about computing education research (CER), I recommend checking out Amy Ko's <a href= "https://faculty.washington.edu/ajko/cer#conferences-and-journals">curated list of conferences and journals</a> that publish CER.
+                Below, I've also included my recommended list of talks and papers relating to the applications of interactive theorem provers, especially for educational purposes.
                 <h3 style="margin-bottom: 1px">Recommended Talks</h3>
                 <ul>
                     <li style="margin-bottom: 5px"><a href="https://youtu.be/3WBUHEVr56c">Introduction to the Coq Proof Assistant</a>: A 2010 talk by Andrew Appel that first briefly introduces the process to formally proving a theorem and the high-level overview on how theorem provers work before jumping into the specific features of Coq by going through tactics and examples. </li>
@@ -66,6 +67,12 @@
                     <ul style="padding-bottom: 0;">
                         <li style="margin-left:5px">Why was Coq chosen as the interactive theorem prover for this purpose? What was the main rationale?</li>
                         <li style="margin-left:5px; margin-bottom: 5px;">Have there been any follow-up efforts in formalizing automata theory and creating pre-defined tactics?</li>
+                    </ul>
+                    <li style="margin-bottom: 5px"><a href="https://arxiv.org/abs/1912.03028">A Survey on Theorem Provers in Formal Methods</a>: A comprehensive survery from 2019 on the recent state of theorem provers. The authors first introduce formal methods and formal verification at a high-level, then highlight theorem proving as a branch of formal verification, and finally discuss and compare a wide variety of theorem provers based on different categorizations. 
+                        The notable theorem provers covered by the authors include ACL2, Isabelle, Metamath, Agda, HOL, and Coq. Based on the findings within this paper, some relevant areas of further exploration include:</li>
+                    <ul style="padding-bottom: 0;">
+                        <li style="margin-left:5px">Increasing IDE support and graphical/visualization tools for theorem provers.</li>
+                        <li style="margin-left:5px; margin-bottom: 5px;">Increasing interoperability between different theorem prover systems (e.g., enabling theorems to be imported from one prover to another).</li>
                     </ul>
                     <li style="margin-bottom: 5px"><a href="https://www.tandfonline.com/doi/full/10.1080/0020739X.2023.2178981">Interactive theorem provers for university mathematics - an exploratory study of students' perceptions</a>: A 2022 paper discussing the integration of the Lean Theorem Prover into a first-year mathematics course taught during the 2018-2019 academic year. Although the use of the interactive theorem prover was not compulsory, students were exposed to Lean as a part of lectures and also had optional weekly tutorials to learn more about its features and use. Based on the results from questionnaires and semi-structured interviews collected near the end of the term, the authors concluded that the use of Lean within the course had both advantages as well as its disadvantages. Some students enjoyed the use of Lean while others felt discouraged by the learning curve accompanying the use of Lean.</li>
                     <ul style="padding-bottom: 0;">
