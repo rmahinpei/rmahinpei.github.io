@@ -1,6 +1,6 @@
-I am a fully-funded Master of Science & Engineering (M.S.E.) student in the [Computer Science Department of Princeton University](https://www.cs.princeton.edu/). 
+I am a fully-funded Master of Science & Engineering (M.S.E.) student at [Princeton University's Computer Science Department](https://www.cs.princeton.edu/). 
 
-I received a Bachelor's of Science (B.S.) degree in Honours Computer Science along with a Mathematics Minor at the University of British Columbia (UBC). During my undergrad, I had the pleasure of working with [Systopia](https://systopia.cs.ubc.ca/) and the Numerical Linear Algebra research labs from the [Computer Science Department of UBC](https://www.cs.ubc.ca/).
+I received a Bachelor's of Science (B.S.) degree in Honours Computer Science along with a Mathematics Minor at the University of British Columbia (UBC). During my undergrad, I had the pleasure of working with the [Systopia](https://systopia.cs.ubc.ca/) lab and the Numerical Linear Algebra lab at [UBC's Computer Science Department](https://www.cs.ubc.ca/).
 
 My current research interests include **high performance computing, human-centred artificial intelligence, and computer science education**.
 
