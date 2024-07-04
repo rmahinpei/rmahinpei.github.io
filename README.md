@@ -1,6 +1,8 @@
 I am a fully-funded Master of Science & Engineering (M.S.E.) student in the Computer Science department at Princeton University. 
 I received a Bachelor's of Science (B.S.) degree in Honours Computer Science along with a Mathematics Minor at The University of British Columbia. 
-My current research intersts include **high performance computing, human-centred AI, and computer science education**.
+My current research interests include **high performance computing, human-centred artificial intelligence, and computer science education**.
+
+--------------
 
 ## Education						       		
 - M.S.E., Computer Science | Princeton Univeristy (2024-2026)	 			        		
@@ -24,4 +26,4 @@ My current research intersts include **high performance computing, human-centred
 - Complemented the framework with practical guides, including a decision tree and a usage table, to assist educators in effectively using the randomization framework.
 
 ## Publications
-1. Romina Mahinpei, Iris Xu, Steven Wolfman, and Firas Moosvi. 2024. A Generalized Framework for Describing Question Randomization. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE 2024). Association for Computing Machinery, New York, NY, USA, 1736–1737. https://doi.org/10.1145/3626253.3635599.
+1. Romina Mahinpei, Iris Xu, Steven Wolfman, and Firas Moosvi. 2024. A Generalized Framework for Describing Question Randomization. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE 2024). Association for Computing Machinery, New York, NY, USA, 1736–1737. [https://doi.org/10.1145/3626253.3635599](https://doi.org/10.1145/3626253.3635599).
