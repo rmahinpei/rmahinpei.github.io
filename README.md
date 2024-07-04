@@ -1,10 +1,15 @@
-# Personal Website
+## Education						       		
+- M.S.E., Computer Science | Princeton Univeristy (2024-2026)	 			        		
+- B.S., Computer Science | The University of British Columbia (2020-2024)
 
-## Purpose
-To expand my programming skills during the summer of 2021, I decided to use HTML, CSS, and JS to build my first personal website. You can visit the completed project [here](https://rmahinpei.github.io/).
+## Projects
+**Mixed Precision Minimal Residual (MINRES) Method**
 
-## Learning Resources
-Here are some of the learning resources I used to get my website started:
-- [Microsoft learning module](https://docs.microsoft.com/en-us/learn/modules/develop-web-apps-with-vs-code/)
-- [freeCodeCamp HTML tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
-- [freeCodeCamp HTML & CSS tutorial](https://www.youtube.com/watch?v=kMT54MPz9oE)
+**Low Precision Training of Deep Learning Models**
+
+**Personalized Practice Quizzes**
+
+**A Generalized Framework for Describing Question Randomization**
+
+## Publications
+1. Romina Mahinpei, Iris Xu, Steven Wolfman, and Firas Moosvi. 2024. A Generalized Framework for Describing Question Randomization. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE 2024). Association for Computing Machinery, New York, NY, USA, 1736–1737. https://doi.org/10.1145/3626253.3635599.
