@@ -1,4 +1,4 @@
-I am a fully-funded Master of Science & Engineering (M.S.E.) student in the Computer Science department at Princeton University. 
+I am a fully-funded Master of Science & Engineering (M.S.E.) student in the [Computer Science department of Princeton University](https://www.cs.princeton.edu/). 
 I received a Bachelor's of Science (B.S.) degree in Honours Computer Science along with a Mathematics Minor at The University of British Columbia. 
 My current research interests include **high performance computing, human-centred artificial intelligence, and computer science education**.
 
@@ -27,8 +27,8 @@ My current research interests include **high performance computing, human-centre
 --------------
 ## Teaching
 As a teaching assistant, I've had the pleasure of helping with the following courses:
-- CPSC 313 Hardware & Operating Systems, The University of British Columbia (2023-2024)
-- CPSC 210 Software Construction & Development, The University of British Columbia (2022-2023)
-- Science One Differential & Integral Calculus, The University of British Columbia (2021-2022)
+- **CPSC 313 Hardware & Operating Systems**, The University of British Columbia (2023-2024)
+- **CPSC 210 Software Construction & Development**, The University of British Columbia (2022-2023)
+- **Science One Differential & Integral Calculus**, The University of British Columbia (2021-2022)
 
 
