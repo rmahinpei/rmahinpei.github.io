@@ -5,8 +5,10 @@ My current research interests include **high performance computing, human-centre
 --------------
 
 ## Education						       		
-- M.S.E., Computer Science | Princeton Univeristy (2024-2026)	 			        		
-- B.S., Computer Science | The University of British Columbia (2020-2024)
+**M.S.E. in Computer Science | Princeton Univeristy (2024-2026)**			        		
+
+**B.S. in Honours Computer Science with a Mathematics Minor | The University of British Columbia (2020-2024)**   
+- **Relevant Courses:** Advanced ML, Human-Centred AI, Parallel Computation, Operating Systems, Relational Databases, Numerical Computation & Approximation, Computational Optimization, Linear Algebra, Probability. 
 
 ## Projects
 **Low Precision Training of Deep Learning Models**
@@ -24,6 +26,8 @@ My current research interests include **high performance computing, human-centre
 [Code Repo](https://github.com/open-resources/randomization_framework/tree/main) | [PDF](https://dl.acm.org/doi/10.1145/3626253.3635599)
 - Introduced a randomization framework with six distinct levels to address the limitations in describing the diversity of question randomization in computer-based assessments.
 - Complemented the framework with practical guides, including a decision tree and a usage table, to assist educators in effectively using the randomization framework.
+
+--------------
 
 ## Publications
 1. Romina Mahinpei, Iris Xu, Steven Wolfman, and Firas Moosvi. 2024. A Generalized Framework for Describing Question Randomization. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE 2024). Association for Computing Machinery, New York, NY, USA, 1736–1737. [https://doi.org/10.1145/3626253.3635599](https://doi.org/10.1145/3626253.3635599).
