@@ -9,6 +9,10 @@
 - Investigated the impact of four general low precision schemes on the training time and classification accuracy of four different deep learning models from the domains of image and text classification.
 - Implemented multi-precision and mixed-precision schemes of the selected models and examined the performance trade-offs between speed and accuracy after making measurements on Google Colab’s Tesla T4 GPU.
 
+
+**Personalized Practice Quizzes**
+
+
 **A Generalized Framework for Describing Question Randomization**
 
 [Code Repo](https://github.com/open-resources/randomization_framework/tree/main) | [PDF](https://dl.acm.org/doi/10.1145/3626253.3635599)
