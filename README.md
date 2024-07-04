@@ -1,3 +1,7 @@
+I am a fully-funded Master of Science & Engineering (M.S.E.) student in the Computer Science department at Princeton University. 
+I received a Bachelor's of Science (B.S.) degree in Honours Computer Science along with a Mathematics Minor at The University of British Columbia. 
+My current research intersts include **high performance computing, human-centred AI, and computer science education**.
+
 ## Education						       		
 - M.S.E., Computer Science | Princeton Univeristy (2024-2026)	 			        		
 - B.S., Computer Science | The University of British Columbia (2020-2024)
