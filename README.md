@@ -3,14 +3,7 @@ I received a Bachelor's of Science (B.S.) degree in Honours Computer Science alo
 My current research interests include **high performance computing, human-centred artificial intelligence, and computer science education**.
 
 --------------
-
-## Education						       		
-**M.S.E. in Computer Science | Princeton Univeristy (2024-2026)**			        		
-
-**B.S. in Honours Computer Science with a Mathematics Minor | The University of British Columbia (2020-2024)**   
-- **Relevant Courses:** Advanced ML, Human-Centred AI, Parallel Computation, Operating Systems, Relational Databases, Numerical Computation & Approximation, Computational Optimization, Linear Algebra, Probability. 
-
-## Projects
+## Research
 **Low Precision Training of Deep Learning Models**
 
 [Code Repo](https://github.com/rmahinpei/low-precision-deep-learning) | [PDF](https://github.com/rmahinpei/low-precision-deep-learning/blob/main/docs/report.pdf)
@@ -28,6 +21,14 @@ My current research interests include **high performance computing, human-centre
 - Complemented the framework with practical guides, including a decision tree and a usage table, to assist educators in effectively using the randomization framework.
 
 --------------
-
 ## Publications
 1. Romina Mahinpei, Iris Xu, Steven Wolfman, and Firas Moosvi. 2024. A Generalized Framework for Describing Question Randomization. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE 2024). Association for Computing Machinery, New York, NY, USA, 1736–1737. [https://doi.org/10.1145/3626253.3635599](https://doi.org/10.1145/3626253.3635599).
+
+--------------
+## Teaching
+As a teaching assistant, I've had the pleasure of helping with the following courses:
+- CPSC 313 Hardware & Operating Systems, The University of British Columbia (2023-2024)
+- CPSC 210 Software Construction & Development, The University of British Columbia (2022-2023)
+- Science One Differential & Integral Calculus, The University of British Columbia (2021-2022)
+
+
