@@ -22,8 +22,10 @@ My current research interests include **high performance computing, human-centre
 - Investigated the impact of four general low precision schemes on the training time and classification accuracy of four different deep learning models from the domains of image and text classification.
 - Implemented multi-precision and mixed-precision schemes of the selected models using TensorFlow and made performance measurements on Google Colab’s Tesla T4 GPU to examine the trade-offs between speed and accuracy.
 
-**Personalized Practice Quizzes**
-
+**Personalized Practice Quizzes**\
+[Code Repo](https://github.com/rmahinpei/personalized-practice-quizzes) | [PDF](https://github.com/rmahinpei/personalized-practice-quizzes/blob/main/docs/report.pdf)
+- Implemented six different collaborative filtering (CF) models that predict student performance scores on new questions based on past performance scores.
+- Evaluated the suitability of these CF models in predicting performance scores on new questions, with these scores then being used to create a personalized set of practice questions.
 
 **A Generalized Framework for Describing Question Randomization**\
 [Code Repo](https://github.com/open-resources/randomization_framework/tree/main) | [PDF](https://dl.acm.org/doi/10.1145/3626253.3635599)
