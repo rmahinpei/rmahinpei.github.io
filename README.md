@@ -2,10 +2,14 @@ I am a fully-funded Master of Science & Engineering (M.S.E.) student at [Princet
 
 I received a Bachelor's of Science (B.Sc.) degree in Honours Computer Science along with a Mathematics Minor at the University of British Columbia (UBC). During my undergrad, I had the pleasure of working with the [Systopia lab](https://systopia.cs.ubc.ca/) and the Numerical Linear Algebra lab at [UBC's Computer Science Department](https://www.cs.ubc.ca/).
 
-My current research interests include **high performance computing, human-centred artificial intelligence, and computer science education**.
+<div style="text-align: center;">
+<a href="mailto:romina.mahinpei@yahoo.com">Email</a> | <a href="">CV</a> | <a href="https://www.linkedin.com/in/romina-mahinpei/">LinkedIn</a> | <a href="https://orcid.org/0000-0002-7500-5928">OrcID</a>
+</div>
 
 --------------
 ## Research
+My current research interests include **high performance computing, human-centred artificial intelligence, and computer science education**.
+
 **Mixed Precision Minimal Residual (MINRES) Method**\
 [Code Repo]() | [PDF]()
 - Proposed two mixed precision variants of the MINRES method tailored to varying the precision of the preconditioner solves and the matrix-vector products.
@@ -27,13 +31,16 @@ My current research interests include **high performance computing, human-centre
 
 --------------
 ## Publications
-1. Romina Mahinpei, Iris Xu, Steven Wolfman, and Firas Moosvi. 2024. A Generalized Framework for Describing Question Randomization. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE 2024). Association for Computing Machinery, New York, NY, USA, 1736–1737. [https://doi.org/10.1145/3626253.3635599](https://doi.org/10.1145/3626253.3635599).
+1. Romina Mahinpei†, Iris Xu†, Steven Wolfman, and Firas Moosvi. 2024. A Generalized Framework for Describing Question Randomization. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE 2024). Association for Computing Machinery, New York, NY, USA, 1736–1737. [https://doi.org/10.1145/3626253.3635599](https://doi.org/10.1145/3626253.3635599).
+
+† Both authors contributed equally to this work.
 
 --------------
 ## Teaching
 As a teaching assistant, I've had the pleasure of helping with the following courses:
-- **CPSC 313 Hardware & Operating Systems**, UBC (09/2023-04/2024)
-- **CPSC 210 Software Construction & Development**, UBC (09/2022-04/2023)
-- **Science One Differential & Integral Calculus**, UBC (09/2021-04/2022)
+
+- **CPSC 313 Hardware & Operating Systems**, UBC (2023-2024)
+- **CPSC 210 Software Construction & Development**, UBC (2022-2023)
+- **Science One Differential & Integral Calculus**, UBC (2021-2022)
 
 
