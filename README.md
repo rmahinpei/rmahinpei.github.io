@@ -17,6 +17,11 @@ My current research interests include **high performance computing, human-centre
 - Implemented the mixed precision variants using CUDA C and made performance measurements on NVIDIA’s GTX 1060 GPU for Maxwell and Stokes saddle-point problems. 
 - Confirmed that low precision preconditioning is an effective optimization strategy for reducing the runtime of the MINRES iterative solver while maintaining the desired accuracy of the final solution.
 
+**A Generalized Framework for Describing Question Randomization**\
+[Code Repo](https://github.com/open-resources/randomization_framework/tree/main) | [PDF](https://dl.acm.org/doi/10.1145/3626253.3635599)
+- Introduced a randomization framework with six distinct levels to address the limitations in describing the diversity of question randomization in computer-based assessments.
+- Complemented the framework with practical guides, including a decision tree and a usage table, to assist educators in effectively using the randomization framework.
+
 **Low Precision Training of Deep Learning Models**\
 [Code Repo](https://github.com/rmahinpei/low-precision-deep-learning) | [PDF](https://github.com/rmahinpei/low-precision-deep-learning/blob/main/docs/report.pdf)
 - Investigated the impact of four general low precision schemes on the training time and classification accuracy of four different deep learning models from the domains of image and text classification.
@@ -26,11 +31,6 @@ My current research interests include **high performance computing, human-centre
 [Code Repo](https://github.com/rmahinpei/personalized-practice-quizzes) | [PDF](https://github.com/rmahinpei/personalized-practice-quizzes/blob/main/docs/report.pdf)
 - Implemented six different collaborative filtering (CF) models that predict student performance scores on new questions based on past performance scores.
 - Evaluated the suitability of these CF models in predicting performance scores on new questions, with these scores then being used to create a personalized set of practice questions.
-
-**A Generalized Framework for Describing Question Randomization**\
-[Code Repo](https://github.com/open-resources/randomization_framework/tree/main) | [PDF](https://dl.acm.org/doi/10.1145/3626253.3635599)
-- Introduced a randomization framework with six distinct levels to address the limitations in describing the diversity of question randomization in computer-based assessments.
-- Complemented the framework with practical guides, including a decision tree and a usage table, to assist educators in effectively using the randomization framework.
 
 --------------
 ## Publications
