@@ -29,7 +29,7 @@ My current research interests include **high performance computing, human-centre
 
 **Personalized Practice Quizzes**\
 [Code Repo](https://github.com/rmahinpei/personalized-practice-quizzes) | [PDF](https://github.com/rmahinpei/personalized-practice-quizzes/blob/main/docs/report.pdf)
-- Implemented six different collaborative filtering (CF) models that predict student performance scores on new questions based on past performance scores.
+- Implemented six different collaborative filtering (CF) models using the [Surprise SciPy Toolkit](https://surpriselib.com/) and trained the models to predict student performance scores on new questions based on past performance scores.
 - Evaluated the suitability of these CF models in predicting performance scores on new questions, with these scores then being used to create a personalized set of practice questions.
 
 --------------
