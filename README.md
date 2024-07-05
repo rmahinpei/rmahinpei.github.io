@@ -1,6 +1,6 @@
 I am a fully-funded Master of Science & Engineering (M.S.E.) student at [Princeton University's Computer Science Department](https://www.cs.princeton.edu/). 
 
-I received a Bachelor's of Science (B.S.) degree in Honours Computer Science along with a Mathematics Minor at the University of British Columbia (UBC). During my undergrad, I had the pleasure of working with the [Systopia](https://systopia.cs.ubc.ca/) lab and the Numerical Linear Algebra lab at [UBC's Computer Science Department](https://www.cs.ubc.ca/).
+I received a Bachelor's of Science (B.Sc.) degree in Honours Computer Science along with a Mathematics Minor at the University of British Columbia (UBC). During my undergrad, I had the pleasure of working with the [Systopia lab](https://systopia.cs.ubc.ca/) and the Numerical Linear Algebra lab at [UBC's Computer Science Department](https://www.cs.ubc.ca/).
 
 My current research interests include **high performance computing, human-centred artificial intelligence, and computer science education**.
 
@@ -32,8 +32,8 @@ My current research interests include **high performance computing, human-centre
 --------------
 ## Teaching
 As a teaching assistant, I've had the pleasure of helping with the following courses:
-- **CPSC 313 Hardware & Operating Systems**, UBC (2023-2024)
-- **CPSC 210 Software Construction & Development**, UBC (2022-2023)
-- **Science One Differential & Integral Calculus**, UBC (2021-2022)
+- **CPSC 313 Hardware & Operating Systems**, UBC (09/2023-04/2024)
+- **CPSC 210 Software Construction & Development**, UBC (09/2022-04/2023)
+- **Science One Differential & Integral Calculus**, UBC (09/2021-04/2022)
 
 
