@@ -6,9 +6,8 @@ My current research interests include **high performance computing, human-centre
 
 <div style="text-align: center;">
 <a href="mailto:romina.mahinpei@yahoo.com">Email</a> | <a href="">CV</a> | <a href="https://www.linkedin.com/in/romina-mahinpei/">LinkedIn</a> | <a href="https://orcid.org/0000-0002-7500-5928">OrcID</a>
+<p></p>
 </div>
-
-
 --------------
 ## Research
 **Mixed Precision Minimal Residual (MINRES) Method**\
@@ -32,7 +31,7 @@ My current research interests include **high performance computing, human-centre
 
 --------------
 ## Publications
-1. Romina Mahinpei†, Iris Xu†, Steven Wolfman, and Firas Moosvi. 2024. A Generalized Framework for Describing Question Randomization. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE 2024). Association for Computing Machinery, New York, NY, USA, 1736–1737. [https://doi.org/10.1145/3626253.3635599](https://doi.org/10.1145/3626253.3635599).
+1. Romina Mahinpei †, Iris Xu †, Steven Wolfman, and Firas Moosvi. 2024. A Generalized Framework for Describing Question Randomization. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE 2024). Association for Computing Machinery, New York, NY, USA, 1736–1737. [https://doi.org/10.1145/3626253.3635599](https://doi.org/10.1145/3626253.3635599).
 
 † Both authors contributed equally to this work.
 
