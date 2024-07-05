@@ -5,7 +5,7 @@ I received a Bachelor's of Science (B.Sc.) degree in Honours Computer Science al
 My current research interests include **high performance computing, human-centred artificial intelligence, and computer science education**.
 
 <div style="text-align: center;">
-<a href="mailto:romina.mahinpei@yahoo.com">Email</a> | <a href="files/CV.pdf">CV</a> | <a href="https://www.linkedin.com/in/romina-mahinpei/">LinkedIn</a> | <a href="https://orcid.org/0000-0002-7500-5928">OrcID</a>
+<a href="mailto:romina.mahinpei@yahoo.com">Email</a> | <a href="assets/files/CV.pdf">CV</a> | <a href="https://www.linkedin.com/in/romina-mahinpei/">LinkedIn</a> | <a href="https://orcid.org/0000-0002-7500-5928">OrcID</a>
 <p></p>
 </div>
 
