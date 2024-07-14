@@ -12,10 +12,9 @@ My current research interests include **high performance computing, human-centre
 --------------
 ## Research
 **Mixed Precision Minimal Residual (MINRES) Method**\
-[Code Repo]() | [PDF]()
-- Proposed two mixed precision variants of the MINRES method tailored to varying the precision of the preconditioner solves and the matrix-vector products.
-- Implemented the mixed precision variants using CUDA C and made performance measurements on NVIDIA’s GTX 1060 GPU for Maxwell and Stokes saddle-point problems. 
-- Confirmed that low precision preconditioning is an effective optimization strategy for reducing the runtime of the MINRES iterative solver while maintaining the desired accuracy of the final solution.
+[Code Repo](https://github.com/rmahinpei/mixed-precision-minres) | [PDF](https://github.com/rmahinpei/mixed-precision-minres/blob/main/thesis_mahinpei.pdf)
+- Proposed two mixed precision variants of the Minimal Residual (MINRES) that vary the precision of the preconditioner solves and the matrix-vector products.
+- Implemented the proposed mixed precision variants using CUDA C and made performance measurements on NVIDIA’s GeForce RTX 3070 Ti graphics card for Maxwell and Stokes saddle-point problems.
 
 **A Generalized Framework for Describing Question Randomization**\
 [Code Repo](https://github.com/open-resources/randomization_framework/tree/main) | [PDF](https://dl.acm.org/doi/10.1145/3626253.3635599)
