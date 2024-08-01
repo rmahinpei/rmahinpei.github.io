@@ -2,7 +2,7 @@ I am a fully-funded Master of Science & Engineering (M.S.E.) student at [Princet
 
 I received a Bachelor's of Science (B.Sc.) degree in Honours Computer Science along with a Mathematics Minor at the University of British Columbia (UBC). During my undergrad, I had the pleasure of working with the [Systopia lab](https://systopia.cs.ubc.ca/) and the Numerical Linear Algebra lab at [UBC's Computer Science Department](https://www.cs.ubc.ca/).
 
-My current research interests include **high performance computing, human-centred artificial intelligence, and computer science education**.
+My current research interests include **human-centered AI, human-computer interaction, social computing, and educational technologies**.
 
 <div style="text-align: center;">
 <a href="mailto:romina.mahinpei@yahoo.com">Email</a> | <a href="assets/files/CV.pdf">CV</a> | <a href="https://www.linkedin.com/in/romina-mahinpei/">LinkedIn</a> | <a href="https://orcid.org/0000-0002-7500-5928">OrcID</a>
