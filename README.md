@@ -27,7 +27,7 @@ My current research interests include **human-centered AI, human-computer intera
 - Implemented multi-precision and mixed-precision schemes of the selected models using TensorFlow and made performance measurements on Google Colab’s Tesla T4 GPU to examine the trade-offs between speed and accuracy.
 
 **Leveraging Collaborative Filtering for Personalized Practice in Computer-Based Assessments**\
-[Code Repo](https://github.com/rmahinpei/personalized-practice-quizzes) | [PDF](https://github.com/rmahinpei/personalized-practice-quizzes/blob/main/docs/report.pdf)
+[Code Repo](https://github.com/rmahinpei/personalized-practice) | [PDF](https://github.com/rmahinpei/personalized-practice/blob/main/docs/personalized-practice.pdf)
 - Implemented six different collaborative filtering (CF) models using the [Surprise SciPy Toolkit](https://surpriselib.com/) and trained the models to predict student performance scores on new questions based on past performance scores.
 - Conducted paired t-tests against an average-based baseline model to evaluate the suitability of these CF models in predicting performance scores on new questions, with these scores then being used to create a personalized set of practice questions.
 
