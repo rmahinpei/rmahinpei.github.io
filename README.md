@@ -1,8 +1,8 @@
-I am a fully-funded Master of Science & Engineering (M.S.E.) student at [Princeton University's Computer Science Department](https://www.cs.princeton.edu/). 
+I am a fully-funded Master of Science & Engineering (MSE) student at [Princeton University's Computer Science Department](https://www.cs.princeton.edu/). 
 
-I received a Bachelor's of Science (B.Sc.) degree in Honours Computer Science along with a Mathematics Minor at the University of British Columbia (UBC). During my undergrad, I had the pleasure of working with the [Systopia lab](https://systopia.cs.ubc.ca/) and the Numerical Linear Algebra lab at [UBC's Computer Science Department](https://www.cs.ubc.ca/).
+I received a Bachelor's of Science (BSc) degree in Honours Computer Science along with a Mathematics Minor at the University of British Columbia (UBC). During my undergrad, I had the pleasure of working with the [Systopia lab](https://systopia.cs.ubc.ca/) and the Numerical Linear Algebra lab at [UBC's Computer Science Department](https://www.cs.ubc.ca/).
 
-My current research interests include **human-centered AI, human-computer interaction, social computing, and educational technologies**.
+My research experience spans human-computer interaction, applied machine learning & artificial intelligence, and computer systems (focusing on high-performance computing). My current research interests are in **human-centred AI**, **social computing**, and **educational technologies**.
 
 <div style="text-align: center;">
 <a href="mailto:romina.mahinpei@yahoo.com">Email</a> | <a href="assets/files/CV.pdf">CV</a> | <a href="https://www.linkedin.com/in/romina-mahinpei/">LinkedIn</a> | <a href="https://orcid.org/0000-0002-7500-5928">OrcID</a>
@@ -10,7 +10,13 @@ My current research interests include **human-centered AI, human-computer intera
 </div>
 
 --------------
-## Research
+## Projects
+**Leveraging Collaborative Filtering for Personalized Practice in Computer-Based Assessments**\
+![HCI Badge](https://img.shields.io/badge/HCI-pink) ![ML Badge](https://img.shields.io/badge/ML%2FAI-purple)\
+[Code Repo](https://github.com/rmahinpei/personalized-practice) | [PDF](https://github.com/rmahinpei/personalized-practice/blob/main/docs/report.pdf)
+- Explored collaborative filtering (CF)-based recommender systems for personalizing question selection in computer-based assessments by predicting student performance on new, unseen questions using past scores.
+- Developed and evaluated six CF models against baseline model using Dietterich's 5×2 cross-validation method on two datasets from an undergraduate computer systems course and assessed model performance using Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE), with statistical significance determined through a paired t-test.
+
 **Mixed Precision Minimal Residual (MINRES) Method**\
 [Code Repo](https://github.com/rmahinpei/mixed-precision-minres) | [PDF](https://github.com/rmahinpei/mixed-precision-minres/blob/main/thesis_mahinpei.pdf)
 - Proposed two mixed precision variants of the Minimal Residual (MINRES) that vary the precision of the preconditioner solves and the matrix-vector products.
@@ -25,12 +31,6 @@ My current research interests include **human-centered AI, human-computer intera
 [Code Repo](https://github.com/rmahinpei/low-precision-deep-learning) | [PDF](https://github.com/rmahinpei/low-precision-deep-learning/blob/main/docs/report.pdf)
 - Investigated the impact of four general low precision schemes on the training time and classification accuracy of four different deep learning models from the domains of image and text classification.
 - Implemented multi-precision and mixed-precision schemes of the selected models using TensorFlow and made performance measurements on Google Colab’s Tesla T4 GPU to examine the trade-offs between speed and accuracy.
-
-**Leveraging Collaborative Filtering for Personalized Practice in Computer-Based Assessments**\
-[Code Repo](https://github.com/rmahinpei/personalized-practice) | [PDF](https://github.com/rmahinpei/personalized-practice/blob/main/docs/personalized-practice.pdf)
-- Implemented six different collaborative filtering (CF) models using the [Surprise SciPy Toolkit](https://surpriselib.com/) and trained the models to predict student performance scores on new questions based on past performance scores.
-- Conducted paired t-tests against an average-based baseline model to evaluate the suitability of these CF models in predicting performance scores on new questions, with these scores then being used to create a personalized set of practice questions.
-
 
 --------------
 ## Publications
