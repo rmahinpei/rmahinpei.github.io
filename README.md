@@ -11,30 +11,30 @@ My research experience spans human-computer interaction, applied machine learnin
 
 --------------
 ## Projects
-**Leveraging Collaborative Filtering for Personalized Practice in Computer-Based Assessments** ![HCI Badge](https://img.shields.io/badge/HCI-pink) ![ML Badge](https://img.shields.io/badge/ML%2FAI-purple)\
-[Code](https://github.com/rmahinpei/personalized-practice) | [Paper](https://github.com/rmahinpei/personalized-practice/blob/main/docs/report.pdf)
+**Leveraging Collaborative Filtering for Personalized Practice in Computer-Based Assessments** [[Code]](https://github.com/rmahinpei/personalized-practice) [[Paper]](https://github.com/rmahinpei/personalized-practice/blob/main/docs/report.pdf)\
+![HCI Badge](https://img.shields.io/badge/HCI-pink) ![ML Badge](https://img.shields.io/badge/ML%2FAI-purple)
 - Explored collaborative filtering (CF)-based recommender systems for personalizing question selection in computer-based assessments by predicting student performance on new, unseen questions using past scores.
 - Developed and evaluated six CF models against baseline model using Dietterich's 5×2 cross-validation method on two datasets from an undergraduate computer systems course and assessed model performance using Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE), with statistical significance determined through a paired t-test.
 
-**Mixed Precision Minimal Residual (MINRES) Method** ![Systems Badge](https://img.shields.io/badge/Systems-blue)\
-[Code](https://github.com/rmahinpei/mixed-precision-minres) | [Paper](https://github.com/rmahinpei/mixed-precision-minres/blob/main/thesis_mahinpei.pdf)
+**Mixed Precision Minimal Residual (MINRES) Method** [[Code]](https://github.com/rmahinpei/mixed-precision-minres) [[Paper]](https://github.com/rmahinpei/mixed-precision-minres/blob/main/thesis_mahinpei.pdf)\
+![Systems Badge](https://img.shields.io/badge/Systems-blue) 
 - Developed two mixed precision variants of the Minimal Residual (MINRES) method for solving sparse saddle-point linear systems, allowing users to adjust the precision of preconditioner solves and matrix-vector products.
 - Implemented these variants and a baseline version using CUDA C and conducted a comparative performance study on NVIDIA's GeForce RTX 3070 Ti, evaluating speed-up across three Maxwell and three Stokes saddle-point problems.
 
-**Low Precision Training of Deep Learning Models** ![ML Badge](https://img.shields.io/badge/ML%2FAI-purple) ![Systems Badge](https://img.shields.io/badge/Systems-blue)\
-[Code](https://github.com/rmahinpei/low-precision-deep-learning) | [Paper](https://github.com/rmahinpei/low-precision-deep-learning/blob/main/docs/report.pdf)
+**Low Precision Training of Deep Learning Models** [[Code]](https://github.com/rmahinpei/low-precision-deep-learning) [[Paper]](https://github.com/rmahinpei/low-precision-deep-learning/blob/main/docs/report.pdf)\
+![ML Badge](https://img.shields.io/badge/ML%2FAI-purple) ![Systems Badge](https://img.shields.io/badge/Systems-blue)
 - Analyzed the effects of four low precision training schemes on both the training time and classification accuracy of four deep learning models from the domains of image and text classification.
 - Implemented these low precision variants and a baseline version using TensorFlow and conducted a comparative performance study on Google Colab’s Tesla T4 GPU to evaluate the trade-offs in speed and accuracy for each model.
 
-**A Generalized Framework for Describing Question Randomization** ![HCI Badge](https://img.shields.io/badge/HCI-pink)\
-[Code](https://github.com/open-resources/randomization_framework/tree/main) | [Paper](https://dl.acm.org/doi/10.1145/3626253.3635599)
+**A Generalized Framework for Describing Question Randomization** [[Code]](https://github.com/open-resources/randomization_framework/tree/main) [[Paper]](https://dl.acm.org/doi/10.1145/3626253.3635599)\
+![HCI Badge](https://img.shields.io/badge/HCI-pink)
 - Conducted a thematic analysis of computer-based assessment questions in undergraduate CS courses to investigate how instructors integrate randomization into their assessment questions.
 - Developed a six-level framework to systematically categorize these randomization strategies and validated it by applying the framework to questions from an undergraduate data structures course (N = 86) and an undergraduate computer systems course (N = 100), assessing inter-rater reliability using Gwet’s AC1 coefficient.
 
-**Enhancing Transparent Model Reporting with Automated Model Cards in Tribuo** ![HCI Badge](https://img.shields.io/badge/HCI-pink) ![Systems Badge](https://img.shields.io/badge/Systems-blue)\
-[Code](https://github.com/oracle/tribuo/tree/main/Interop/ModelCard) | [Paper](https://tribuo.org/learn/4.3/tutorials/modelcard-tribuo-v4.html)
-- Conducted a thematic analysis of computer-based assessment questions in undergraduate CS courses to investigate how instructors integrate randomization into their assessment questions.
-- Developed a six-level framework to systematically categorize these randomization strategies and validated it by applying the framework to questions from an undergraduate data structures course (N = 86) and an undergraduate computer systems course (N = 100), assessing inter-rater reliability using Gwet’s AC1 coefficient.
+**Enhancing Transparent Model Reporting with Automated Model Cards in Tribuo** [[Code]](https://github.com/oracle/tribuo/tree/main/Interop/ModelCard) [[Paper]](https://tribuo.org/learn/4.3/tutorials/modelcard-tribuo-v4.html)\
+![HCI Badge](https://img.shields.io/badge/HCI-pink) ![Systems Badge](https://img.shields.io/badge/Systems-blue)
+- Conducted semi-structured interviews with ML and data professionals from academia (N = 6) and industry (N = 6) to assess current workflows and explore how data provenance could streamline these processes.
+- Identified ML model documentation as a key pain point for many participants and subsequently designed, implemented, and tested the Model Card package for Tribuo, Oracle’s open-source Java ML library, to facilitate the creation of partially automated documentation cards for ML models.
 
 --------------
 ## Publications
