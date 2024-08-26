@@ -11,26 +11,30 @@ My research experience spans human-computer interaction, applied machine learnin
 
 --------------
 ## Projects
-**Leveraging Collaborative Filtering for Personalized Practice in Computer-Based Assessments**\
-![HCI Badge](https://img.shields.io/badge/HCI-pink) ![ML Badge](https://img.shields.io/badge/ML%2FAI-purple)\
-[Code Repo](https://github.com/rmahinpei/personalized-practice) | [PDF](https://github.com/rmahinpei/personalized-practice/blob/main/docs/report.pdf)
+**Leveraging Collaborative Filtering for Personalized Practice in Computer-Based Assessments** ![HCI Badge](https://img.shields.io/badge/HCI-pink) ![ML Badge](https://img.shields.io/badge/ML%2FAI-purple)\
+[Code](https://github.com/rmahinpei/personalized-practice) | [Paper](https://github.com/rmahinpei/personalized-practice/blob/main/docs/report.pdf)
 - Explored collaborative filtering (CF)-based recommender systems for personalizing question selection in computer-based assessments by predicting student performance on new, unseen questions using past scores.
 - Developed and evaluated six CF models against baseline model using Dietterich's 5×2 cross-validation method on two datasets from an undergraduate computer systems course and assessed model performance using Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE), with statistical significance determined through a paired t-test.
 
-**Mixed Precision Minimal Residual (MINRES) Method**\
-[Code Repo](https://github.com/rmahinpei/mixed-precision-minres) | [PDF](https://github.com/rmahinpei/mixed-precision-minres/blob/main/thesis_mahinpei.pdf)
-- Proposed two mixed precision variants of the Minimal Residual (MINRES) that vary the precision of the preconditioner solves and the matrix-vector products.
-- Implemented the proposed mixed precision variants using CUDA C and made performance measurements on NVIDIA’s GeForce RTX 3070 Ti graphics card for Maxwell and Stokes saddle-point problems.
+**Mixed Precision Minimal Residual (MINRES) Method** ![Systems Badge](https://img.shields.io/badge/Systems-blue)\
+[Code](https://github.com/rmahinpei/mixed-precision-minres) | [Paper](https://github.com/rmahinpei/mixed-precision-minres/blob/main/thesis_mahinpei.pdf)
+- Developed two mixed precision variants of the Minimal Residual (MINRES) method for solving sparse saddle-point linear systems, allowing users to adjust the precision of preconditioner solves and matrix-vector products.
+- Implemented these variants and a baseline version using CUDA C and conducted a comparative performance study on NVIDIA's GeForce RTX 3070 Ti, evaluating speed-up across three Maxwell and three Stokes saddle-point problems.
 
-**A Generalized Framework for Describing Question Randomization**\
-[Code Repo](https://github.com/open-resources/randomization_framework/tree/main) | [PDF](https://dl.acm.org/doi/10.1145/3626253.3635599)
-- Introduced a randomization framework with six distinct levels to address the limitations in describing the diversity of question randomization in computer-based assessments.
-- Complemented the framework with practical guides, including a decision tree and a usage table, to assist educators in effectively using the randomization framework.
+**Low Precision Training of Deep Learning Models** ![ML Badge](https://img.shields.io/badge/ML%2FAI-purple) ![Systems Badge](https://img.shields.io/badge/Systems-blue)\
+[Code](https://github.com/rmahinpei/low-precision-deep-learning) | [Paper](https://github.com/rmahinpei/low-precision-deep-learning/blob/main/docs/report.pdf)
+- Analyzed the effects of four low precision training schemes on both the training time and classification accuracy of four deep learning models from the domains of image and text classification.
+- Implemented these low precision variants and a baseline version using TensorFlow and conducted a comparative performance study on Google Colab’s Tesla T4 GPU to evaluate the trade-offs in speed and accuracy for each model.
 
-**Low Precision Training of Deep Learning Models**\
-[Code Repo](https://github.com/rmahinpei/low-precision-deep-learning) | [PDF](https://github.com/rmahinpei/low-precision-deep-learning/blob/main/docs/report.pdf)
-- Investigated the impact of four general low precision schemes on the training time and classification accuracy of four different deep learning models from the domains of image and text classification.
-- Implemented multi-precision and mixed-precision schemes of the selected models using TensorFlow and made performance measurements on Google Colab’s Tesla T4 GPU to examine the trade-offs between speed and accuracy.
+**A Generalized Framework for Describing Question Randomization** ![HCI Badge](https://img.shields.io/badge/HCI-pink)\
+[Code](https://github.com/open-resources/randomization_framework/tree/main) | [Paper](https://dl.acm.org/doi/10.1145/3626253.3635599)
+- Conducted a thematic analysis of computer-based assessment questions in undergraduate CS courses to investigate how instructors integrate randomization into their assessment questions.
+- Developed a six-level framework to systematically categorize these randomization strategies and validated it by applying the framework to questions from an undergraduate data structures course (N = 86) and an undergraduate computer systems course (N = 100), assessing inter-rater reliability using Gwet’s AC1 coefficient.
+
+**Enhancing Transparent Model Reporting with Automated Model Cards in Tribuo** ![HCI Badge](https://img.shields.io/badge/HCI-pink) ![Systems Badge](https://img.shields.io/badge/Systems-blue)\
+[Code](https://github.com/oracle/tribuo/tree/main/Interop/ModelCard) | [Paper](https://tribuo.org/learn/4.3/tutorials/modelcard-tribuo-v4.html)
+- Conducted a thematic analysis of computer-based assessment questions in undergraduate CS courses to investigate how instructors integrate randomization into their assessment questions.
+- Developed a six-level framework to systematically categorize these randomization strategies and validated it by applying the framework to questions from an undergraduate data structures course (N = 86) and an undergraduate computer systems course (N = 100), assessing inter-rater reliability using Gwet’s AC1 coefficient.
 
 --------------
 ## Publications
