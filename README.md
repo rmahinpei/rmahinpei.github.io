@@ -32,7 +32,7 @@ My research experience spans human-computer interaction, applied machine learnin
 - Developed a six-level framework to systematically categorize these randomization strategies and validated it by applying the framework to questions from an undergraduate data structures course (N = 86) and an undergraduate computer systems course (N = 100), assessing inter-rater reliability using Gwet’s AC1 coefficient.
 
 **Enhancing Transparent Model Reporting with Automated Model Cards in Tribuo** [[Code]](https://github.com/oracle/tribuo/tree/main/Interop/ModelCard) [[Paper]](https://tribuo.org/learn/4.3/tutorials/modelcard-tribuo-v4.html)\
-![HCI Badge](https://img.shields.io/badge/HCI-pink) ![Systems Badge](https://img.shields.io/badge/Systems-blue)
+![HCI Badge](https://img.shields.io/badge/HCI-pink) ![ML Badge](https://img.shields.io/badge/ML%2FAI-purple) ![Systems Badge](https://img.shields.io/badge/Systems-blue)
 - Conducted semi-structured interviews with ML and data professionals from academia (N = 6) and industry (N = 6) to assess current workflows and explore how data provenance could streamline these processes.
 - Identified ML model documentation as a key pain point for many participants and subsequently designed, implemented, and tested the Model Card package for Tribuo, Oracle’s open-source Java ML library, to facilitate the creation of partially automated documentation cards for ML models.
 
