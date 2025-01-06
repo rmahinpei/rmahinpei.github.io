@@ -5,7 +5,7 @@ I received a Bachelor's of Science (BSc) degree in Honours Computer Science alon
 My research experience spans human-computer interaction, applied machine learning & artificial intelligence, and computer systems (focusing on high-performance computing). My current research interests are in **human-centred AI**, **human-computer interaction**, and **educational technologies**.
 
 <div style="text-align: center;">
-<a href="mailto:romina.mahinpei@yahoo.com">Email</a> | <a href="assets/files/CV.pdf">CV</a> | <a href="https://www.linkedin.com/in/romina-mahinpei/">LinkedIn</a> | <a href="https://orcid.org/0000-0002-7500-5928">OrcID</a>
+<a href="mailto:rm9688@princeton.edu">Email</a> | <a href="assets/files/CV.pdf">CV</a> | <a href="https://www.linkedin.com/in/romina-mahinpei/">LinkedIn</a> | <a href="https://orcid.org/0000-0002-7500-5928">OrcID</a>
 <p></p>
 </div>
 
