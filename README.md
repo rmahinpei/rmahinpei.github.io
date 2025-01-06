@@ -2,7 +2,7 @@ I am a fully-funded Master of Science & Engineering (MSE) student at [Princeton 
 
 I received a Bachelor's of Science (BSc) degree in Honours Computer Science along with a Mathematics Minor at the University of British Columbia (UBC). During my undergrad, I had the pleasure of working with the [Systopia lab](https://systopia.cs.ubc.ca/) and the Numerical Linear Algebra lab at [UBC's Computer Science Department](https://www.cs.ubc.ca/).
 
-My research experience spans human-computer interaction, applied machine learning & artificial intelligence, and computer systems (focusing on high-performance computing). My current research interests are in **human-centred AI**, **social computing**, and **educational technologies**.
+My research experience spans human-computer interaction, applied machine learning & artificial intelligence, and computer systems (focusing on high-performance computing). My current research interests are in **human-centred AI**, **human-computer interaction**, and **educational technologies**.
 
 <div style="text-align: center;">
 <a href="mailto:romina.mahinpei@yahoo.com">Email</a> | <a href="assets/files/CV.pdf">CV</a> | <a href="https://www.linkedin.com/in/romina-mahinpei/">LinkedIn</a> | <a href="https://orcid.org/0000-0002-7500-5928">OrcID</a>
@@ -38,7 +38,8 @@ My research experience spans human-computer interaction, applied machine learnin
 
 --------------
 ## Publications
-1. Romina Mahinpei †, Iris Xu †, Steven Wolfman, and Firas Moosvi. 2024. A Generalized Framework for Describing Question Randomization. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE 2024). Association for Computing Machinery, New York, NY, USA, 1736–1737. [https://doi.org/10.1145/3626253.3635599](https://doi.org/10.1145/3626253.3635599).
+1. Romina Mahinpei. 2024. Mixed Precision MINRES. SIAM Undergraduate Research Online, Volume 17. Society for Industrial and Applied Mathematics, Philadelphia, PA, USA. [https://doi.org/10.1137/24s1678489](https://doi.org/10.1137/24s1678489). 
+2. Romina Mahinpei †, Iris Xu †, Steven Wolfman, and Firas Moosvi. 2024. A Generalized Framework for Describing Question Randomization. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE 2024). Association for Computing Machinery, New York, NY, USA, 1736–1737. [https://doi.org/10.1145/3626253.3635599](https://doi.org/10.1145/3626253.3635599).
 
 † Both authors contributed equally to this work.
 
@@ -46,6 +47,7 @@ My research experience spans human-computer interaction, applied machine learnin
 ## Teaching
 As a teaching assistant, I've had the pleasure of helping with the following courses:
 
+- **COS 324 Introduction to Machine Learning**, Princeton (2024-2025)
 - **CPSC 313 Hardware & Operating Systems**, UBC (2023-2024)
 - **CPSC 210 Software Construction & Development**, UBC (2022-2023)
 - **Science One Differential & Integral Calculus**, UBC (2021-2022)
