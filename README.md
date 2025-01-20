@@ -16,7 +16,7 @@ My research experience spans human-computer interaction, applied machine learnin
 - Explored collaborative filtering (CF)-based recommender systems for personalizing question selection in computer-based assessments by predicting student performance on new, unseen questions using past scores.
 - Developed and evaluated six CF models against baseline model using Dietterich's 5×2 cross-validation method on two datasets from an undergraduate computer systems course and assessed model performance using Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE), with statistical significance determined through a paired t-test.
 
-**Mixed Precision Minimal Residual (MINRES) Method** [[Code]](https://github.com/rmahinpei/mixed-precision-minres) [[Paper]](https://github.com/rmahinpei/mixed-precision-minres/blob/main/thesis_mahinpei.pdf)\
+**Mixed Precision Minimal Residual (MINRES) Method** [[Code]](https://doi.org/10.1145/3626253.3635599) [[Paper]](https://github.com/rmahinpei/mixed-precision-minres/blob/main/thesis_mahinpei.pdf)\
 ![Systems Badge](https://img.shields.io/badge/Systems-blue) 
 - Developed two mixed precision variants of the Minimal Residual (MINRES) method for solving sparse saddle-point linear systems, allowing users to adjust the precision of preconditioner solves and matrix-vector products.
 - Implemented these variants and a baseline version using CUDA C and conducted a comparative performance study on NVIDIA's GeForce RTX 3070 Ti, evaluating speed-up across three Maxwell and three Stokes saddle-point problems.
