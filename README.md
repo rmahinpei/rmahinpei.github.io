@@ -16,17 +16,17 @@ My experiences span human-computer interaction (HCI), artificial intelligence (A
 - Conducted a thematic analysis of students’ self-reported usage patterns in third-year, multidisciplinary undergraduate research methods course targeting critical thinking skills.
 - Developed a bottom-up categorization of how students use LLMs, grounded in actual student behaviour.
 
-**Provenance Design and Evolution in a Production ML Library** [[Code]](https://github.com/oracle/tribuo/tree/main/Interop/ModelCard) [[Paper]](https://tribuo.org/learn/4.3/tutorials/modelcard-tribuo-v4.html)\
+**Provenance Design and Evolution in a Production ML Library** [[Paper]](https://openreview.net/forum?id=VrbDf3UDgv&nesting=2&sort=date-desc) [[Code]](https://github.com/oracle/tribuo/tree/main) [[Tutorial]](https://tribuo.org/learn/4.3/tutorials/modelcard-tribuo-v4.html)\
 ![HCI Badge](https://img.shields.io/badge/HCI-pink) ![ML Badge](https://img.shields.io/badge/ML%2FAI-purple) ![Systems Badge](https://img.shields.io/badge/Systems-blue)
 - Studied the current state of data workflows across users from academia (N = 6) and industry (N = 6) and identified ways in which data provenance could simplify those workflows.
 - Designed, implemented, and tested the Model Card package for [Tribuo](https://tribuo.org/), Oracle’s open-source Java ML library, to allow Tribuo users to create partially automated machine learning model documentation.
 
-**A Generalized Framework for Describing Question Randomization** [[Code]](https://github.com/open-resources/randomization_framework/tree/main) [[Paper]](https://dl.acm.org/doi/10.1145/3626253.3635599)\
+**A Generalized Framework for Describing Question Randomization** [[Paper]](https://dl.acm.org/doi/10.1145/3626253.3635599) [[Code]](https://github.com/open-resources/randomization_framework/tree/main) [[Video]](https://vimeo.com/1105304850) \
 ![HCI Badge](https://img.shields.io/badge/HCI-pink)
 - Conducted a thematic analysis of computer-based assessment questions in two undergraduate CS courses to investigate how instructors integrate randomization into their digital assessment questions.
 - Developed a six-level framework to systematically categorize these randomization strategies and validated the framework by applying it to questions from an undergraduate data structures course (N = 86) and an undergraduate computer systems course (N = 100), assessing inter-rater reliability using percentage agreement and Gwet’s AC1 coefficient.
 
-**Mixed Precision Minimal Residual (MINRES) Method** [[Code]](https://github.com/rmahinpei/mixed-precision-minres) [[Paper]](https://doi.org/10.1145/3626253.3635599)\
+**Mixed Precision Minimal Residual (MINRES) Method** [[Paper]](https://siam-web.useast01.umbraco.io/media/g4ypl0f2/s167848r.pdf) [[Code]](https://github.com/rmahinpei/mixed-precision-minres)\
 ![Systems Badge](https://img.shields.io/badge/Systems-blue) 
 - Developed two mixed precision variants of the Minimal Residual (MINRES) method for solving sparse saddle-point linear systems, allowing users to adjust the precision of preconditioner solves and matrix-vector products.
 - Implemented these variants and a baseline version using CUDA C and conducted a comparative performance study on NVIDIA's GeForce RTX 3070 Ti, evaluating speed-up across three Maxwell and three Stokes saddle-point systems.
