@@ -21,7 +21,7 @@ My experiences span human-computer interaction (HCI), artificial intelligence (A
 - Studied the current state of data workflows across users from academia (N = 6) and industry (N = 6) and identified ways in which data provenance could simplify those workflows.
 - Designed, implemented, and tested the Model Card package for [Tribuo](https://tribuo.org/), Oracle’s open-source Java ML library, to allow Tribuo users to create partially automated machine learning model documentation.
 
-**A Generalized Framework for Describing Question Randomization** [[Paper]](https://dl.acm.org/doi/10.1145/3626253.3635599) [[Code]](https://github.com/open-resources/randomization_framework/tree/main) [[Video]](https://vimeo.com/1105304850) \
+**A Generalized Framework for Describing Question Randomization** [[Paper]](https://dl.acm.org/doi/10.1145/3702652.3744222) [[Code]](https://github.com/open-resources/randomization_framework/tree/main) [[Video]](https://vimeo.com/1105304850) \
 ![HCI Badge](https://img.shields.io/badge/HCI-pink)
 - Conducted a thematic analysis of computer-based assessment questions in two undergraduate CS courses to investigate how instructors integrate randomization into their digital assessment questions.
 - Developed a six-level framework to systematically categorize these randomization strategies and validated the framework by applying it to questions from an undergraduate data structures course (N = 86) and an undergraduate computer systems course (N = 100), assessing inter-rater reliability using percentage agreement and Gwet’s AC1 coefficient.
@@ -35,7 +35,7 @@ My experiences span human-computer interaction (HCI), artificial intelligence (A
 ## Publications
 1. Ivan Orozco Vasquez †, Romina Mahinpei †, Noureddine Elouazizi, Cristina Conati. 2025. An Emergent Bottom-Up Categorization of Students’ LLMs Usage in an Undergraduate Research Course. [Paper]. Artificial Intelligence in Education (AIED 2025). Lecture Notes in Computer Science, Volume 15881.  DOI: 10.1007/978-3-031-98462-4_17. [link](https://link.springer.com/chapter/10.1007/978-3-031-98462-4_17)
 2. Adam Craig Pocock, Joseph Wonsil, Romina Mahinpei, Jack Sullivan, Margo Seltzer. 2025. Provenance Design and Evolution in a Production ML Library. [Poster]. CODEML@ICML25. [link](https://openreview.net/forum?id=VrbDf3UDgv&nesting=2&sort=date-desc)
-3. Romina Mahinpei*, Iris Xu*, Steven Wolfman, and Firas Moosvi. 2025. A Generalized Framework for Describing Question Randomization. [Paper]. In Proceedings of the 2025 ACM Conference on International Computing Education, Volume 2 (ICER 2025). DOI: TODO. [link]
+3. Romina Mahinpei*, Iris Xu*, Steven Wolfman, and Firas Moosvi. 2025. A Generalized Framework for Describing Question Randomization. [Paper]. In Proceedings of the 2025 ACM Conference on International Computing Education, Volume 1 (ICER 2025). DOI: 10.1145/3702652.3744222. [link](https://dl.acm.org/doi/10.1145/3702652.3744222)
 4. Romina Mahinpei †, Iris Xu †, Steven Wolfman, and Firas Moosvi. 2024. A Generalized Framework for Describing Question Randomization. [Poster]. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education, Volume 2 (SIGCSE TS 2024). DOI: 10.1145/3626253.3635599. [link](https://dl.acm.org/doi/10.1145/3626253.3635599)
 5. Romina Mahinpei, Chen Greif. 2024. Mixed Precision MINRES. [Paper]. SIAM Undergraduate Research Online, Volume 17 (SIURO). Society for Industrial and Applied Mathematics. DOI: 10.1137/24s1678489. [link](https://siam-web.useast01.umbraco.io/media/g4ypl0f2/s167848r.pdf)
 
