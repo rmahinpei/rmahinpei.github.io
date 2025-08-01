@@ -2,7 +2,7 @@ I am a fully-funded Master of Science & Engineering (MSE) student at [Princeton 
 
 I received a Bachelor's of Science (BSc) degree in Honours Computer Science along with a Mathematics Minor at the University of British Columbia (UBC). During my undergraduate degree, I had the pleasure of working with the [Human-AI Interaction Lab](https://hai.cs.ubc.ca/), the [Scientific Computing lab](https://www.cs.ubc.ca/labs/scl/index.html_), and the [Systopia lab](https://systopia.cs.ubc.ca/) at [UBC's Computer Science Department](https://www.cs.ubc.ca/). As part of my MSE degree, I am currently working with the [Humans and Machines lab](https://humans-and-machines.github.io/) directed by [Dr. Manoel Horta Ribeiro](https://manoelhortaribeiro.github.io/).
 
-My experiences span human-computer interaction (HCI), artificial intelligence (AI), applied machine learning, and systems research. My current research interests are in **human-centred AI** **computational social science**, and **social computing**.
+My experiences span human-computer interaction (HCI), artificial intelligence (AI), applied machine learning, and systems research. My current research interests are in **human-centred AI**, **computational social science**, and **social computing**.
 
 <div style="text-align: center;">
 <a href="mailto:rmahinpei@princeton.edu">Email</a> | <a href="assets/files/CV.pdf">CV</a> | <a href="https://www.linkedin.com/in/rmahinpei/">LinkedIn</a> | <a href="https://orcid.org/0000-0002-7500-5928">OrcID</a> | <a href="https://scholar.google.com/citations?user=oFp44rMAAAAJ">Google Scholar</a>
