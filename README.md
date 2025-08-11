@@ -49,6 +49,7 @@ My experiences span human-computer interaction (HCI), artificial intelligence (A
 ### Workshop Papers & Posters
 1. Adam Craig Pocock, Joseph Wonsil, **Romina Mahinpei**, Jack Sullivan, Margo Seltzer. 2025. *Provenance Design and Evolution in a Production ML Library*. [Workshop Paper]. Championing Open-source DEvelopment in ML Workshop @ ICML25 (CODEML @ICML 2025). OpenReview: [https://openreview.net/forum?id=VrbDf3UDgv](https://openreview.net/forum?id=VrbDf3UDgv).
 2. **Romina Mahinpei ‡**, Iris Xu ‡, Steven Wolfman, and Firas Moosvi. 2024. *A Generalized Framework for Describing Question Randomization*. [Poster]. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education, Volume 2 (SIGCSE TS 2024). DOI: [10.1145/3626253.3635599](https://dl.acm.org/doi/10.1145/3626253.3635599).
+
 --------------
 ## Teaching
 As a teaching assistant, I've had the pleasure of assisting with the following courses:
