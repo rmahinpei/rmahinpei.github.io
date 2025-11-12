@@ -48,8 +48,10 @@ My experiences span human-computer interaction (HCI), artificial intelligence (A
 5. **Romina Mahinpei**, Chen Greif. 2024. *Mixed Precision MINRES*. [Paper]. SIAM Undergraduate Research Online, Volume 17 (SIURO). Society for Industrial and Applied Mathematics. DOI: [10.1137/24s1678489](https://siam-web.useast01.umbraco.io/media/g4ypl0f2/s167848r.pdf).
 
 ### Workshop Papers & Posters
-1. Adam Craig Pocock, Joseph Wonsil, **Romina Mahinpei**, Jack Sullivan, Margo Seltzer. 2025. *Provenance Design and Evolution in a Production ML Library*. [Workshop Paper]. Championing Open-source DEvelopment in ML Workshop @ ICML25 (CODEML @ICML 2025). OpenReview: [https://openreview.net/forum?id=VrbDf3UDgv](https://openreview.net/forum?id=VrbDf3UDgv).
-2. **Romina Mahinpei ‡**, Iris Xu ‡, Steven Wolfman, and Firas Moosvi. 2024. *A Generalized Framework for Describing Question Randomization*. [Poster]. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education, Volume 2 (SIGCSE TS 2024). DOI: [10.1145/3626253.3635599](https://dl.acm.org/doi/10.1145/3626253.3635599).
+1. **Romina Mahinpei**, Sofiia Druchyna, Xinran Bi. 2026. CNPE: A Framework for Challenges and Needs in Proof Education. [Poster]. In Proceedings of the 57th ACM Technical Symposium on Computer Science Education, Volume 2 (SIGCSE TS 2026). DOI: To Appear.
+2. Anha Khan, **Romina Mahinpei**, Maryam Hedayati, Victoria Dean and Ruth Fong. 2026. Characterizing the Relationship Between Generative AI, Student Behavior, and Learning Outcomes in Upper-Level CS Education: A Case Study in an Undergraduate Machine Learning Course. [Poster]. In Proceedings of the 57th ACM Technical Symposium on Computer Science Education, Volume 2 (SIGCSE TS 2026). DOI: To Appear.
+3. Adam Craig Pocock, Joseph Wonsil, **Romina Mahinpei**, Jack Sullivan, Margo Seltzer. 2025. *Provenance Design and Evolution in a Production ML Library*. [Workshop Paper]. Championing Open-source DEvelopment in ML Workshop @ ICML25 (CODEML @ICML 2025). OpenReview: [https://openreview.net/forum?id=VrbDf3UDgv](https://openreview.net/forum?id=VrbDf3UDgv).
+4. **Romina Mahinpei ‡**, Iris Xu ‡, Steven Wolfman, and Firas Moosvi. 2024. *A Generalized Framework for Describing Question Randomization*. [Poster]. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education, Volume 2 (SIGCSE TS 2024). DOI: [10.1145/3626253.3635599](https://dl.acm.org/doi/10.1145/3626253.3635599).
 
 --------------
 ## Teaching
