@@ -1,8 +1,10 @@
-I am a fully-funded Master of Science & Engineering (MSE) student at [Princeton University's Computer Science Department](https://www.cs.princeton.edu/). 
+I am a first-year PhD student in Computer Science at Princeton University advised by [Prof. Manoel Horta Ribeiro](https://www.cs.princeton.edu/people/profile/mh3586) and [Prof. Andrés Monroy-Hernández](https://www.cs.princeton.edu/people/profile/andresmh). My research sits at the intersection of **human-computer interaction (HCI)**, **computational social science (CSS)**, and **human-centered AI (HAI)**.
 
-I received a Bachelor's of Science (BSc) degree in Honours Computer Science along with a Mathematics Minor at the University of British Columbia (UBC). During my undergraduate degree, I had the pleasure of working with the [Human-AI Interaction Lab](https://hai.cs.ubc.ca/), the [Scientific Computing lab](https://www.cs.ubc.ca/labs/scl/index.html_), and the [Systopia lab](https://systopia.cs.ubc.ca/) at [UBC's Computer Science Department](https://www.cs.ubc.ca/). As part of my MSE degree, I am currently working with the [Humans and Machines lab](https://humans-and-machines.github.io/) directed by [Dr. Manoel Horta Ribeiro](https://manoelhortaribeiro.github.io/).
+My research has two complementary components: 
+- First, I **study how existing AI-assisted systems influence human behavior and attitudes**, often through controlled experiments and real-world interventions
+- Second, I **design, build, and evaluate more intentional AI-mediated systems that allow users to better express and pursue their goals and intentions**. This often involves collaborating closely with partnering communities to understand users’ challenges and needs, then developing and evaluating new intentional technologies through field deployments and mixed-methods research. 
 
-My experiences span human-computer interaction (HCI), artificial intelligence (AI), applied machine learning, and systems research. My current research interests are in **AI in education**, **human-centred AI**, **social computing**, and **computational social science**.
+Across both directions, I combine qualitative, quantitative, and engineering approaches across domains such as education, social media, and online platforms. Beyond my primary research, I also care a lot about teaching, mentorship, and supporting student learning. So from time to time, you will find me contributing to the CS Ed research community through side projects on AI in education, proof education, and learning technologies.
 
 <div style="text-align: center;">
 <a href="mailto:rmahinpei@princeton.edu">Email</a> | <a href="assets/files/CV.pdf">CV</a> | <a href="https://www.linkedin.com/in/rmahinpei/">LinkedIn</a> | <a href="https://orcid.org/0000-0002-7500-5928">OrcID</a> | <a href="https://scholar.google.com/citations?user=oFp44rMAAAAJ">Google Scholar</a>
@@ -39,24 +41,66 @@ My experiences span human-computer interaction (HCI), artificial intelligence (A
 
 --------------
 ## Publications
+### Manuscripts
 
-### Research Papers
-1. Irix Xu\*, **Romina Mahinpei\***, Steven Wolfman, and Firas Moosvi. 2026. *Performance and Start-Time Trends in Asynchronous Computer-Based Assessments*. [Paper]. In Proceedings of the 57th ACM Technical Symposium on Computer Science Education, Volume 2 (SIGCSE TS 2026). DOI: To Appear.
-2.  **Romina Mahinpei**, Manoel Horta Ribeiro, Mae Milano. 2025. *Interactive Theorem Provers for Proof Education*. [Paper]. In Proceedings of the 2025 ACM SIGPLAN International Symposium on SPLASH-E (SPLASH-E '25). DOI: [10.1145/3758317.3759679](https://doi.org/10.1145/3758317.3759679).
-3. Ivan Orozco Vasquez\*, **Romina Mahinpei\***, Noureddine Elouazizi, Cristina Conati. 2025. *An Emergent Bottom-Up Categorization of Students’ LLMs Usage in an Undergraduate Research Course*. [Paper]. Artificial Intelligence in Education (AIED 2025). Lecture Notes in Computer Science, Volume 15881. DOI: [10.1007/978-3-031-98462-4_17](https://link.springer.com/chapter/10.1007/978-3-031-98462-4_17).
-4. **Romina Mahinpei\***, Iris Xu\*, Steven Wolfman, and Firas Moosvi. 2025. *A Generalized Framework for Describing Question Randomization*. [Paper]. In Proceedings of the 2025 ACM Conference on International Computing Education, Volume 1 (ICER 2025). DOI: [10.1145/3702652.3744222](https://dl.acm.org/doi/10.1145/3702652.3744222). 
-5. **Romina Mahinpei**, Chen Greif. 2024. *Mixed Precision MINRES*. [Paper]. SIAM Undergraduate Research Online, Volume 17 (SIURO). Society for Industrial and Applied Mathematics. DOI: [10.1137/24s1678489](https://siam-web.useast01.umbraco.io/media/g4ypl0f2/s167848r.pdf).
+- ***AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education***  
+  **Romina Mahinpei**, Victoria Dean, Ruth Fong, Lydia T. Liu, Manoel Horta Ribeiro  
+  *Under review* · [[Paper]](https://arxiv.org/abs/2606.03095) · [[Code]](https://github.com/humans-and-machines/ai-feedback-provision)  
+  ![CSS Badge](https://img.shields.io/badge/CSS-purple) ![HCI Badge](https://img.shields.io/badge/HCI-pink)
 
-### Workshop Papers & Posters
-1. **Romina Mahinpei**, Sofiia Druchyna, Xinran Bi. 2026. CNPE: A Framework for Challenges and Needs in Proof Education. [Poster]. In Proceedings of the 57th ACM Technical Symposium on Computer Science Education, Volume 2 (SIGCSE TS 2026). DOI: To Appear.
-2. Anha Khan, **Romina Mahinpei**, Maryam Hedayati, Victoria Dean and Ruth Fong. 2026. Characterizing the Relationship Between Generative AI, Student Behavior, and Learning Outcomes in Upper-Level CS Education: A Case Study in an Undergraduate Machine Learning Course. [Poster]. In Proceedings of the 57th ACM Technical Symposium on Computer Science Education, Volume 2 (SIGCSE TS 2026). DOI: To Appear.
-3. Adam Craig Pocock, Joseph Wonsil, **Romina Mahinpei**, Jack Sullivan, Margo Seltzer. 2025. *Provenance Design and Evolution in a Production ML Library*. [Workshop Paper]. Championing Open-source DEvelopment in ML Workshop @ ICML25 (CODEML @ICML 2025). OpenReview: [https://openreview.net/forum?id=VrbDf3UDgv](https://openreview.net/forum?id=VrbDf3UDgv).
-4. **Romina Mahinpei\***, Iris Xu\*, Steven Wolfman, and Firas Moosvi. 2024. *A Generalized Framework for Describing Question Randomization*. [Poster]. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education, Volume 2 (SIGCSE TS 2024). DOI: [10.1145/3626253.3635599](https://dl.acm.org/doi/10.1145/3626253.3635599).
+### Conference Papers
+
+- ***Performance and Start-Time Trends in Asynchronous Computer-Based Assessments***  
+  Irix Xu\*, **Romina Mahinpei\***, Steven Wolfman, Firas Moosvi  
+  *SIGCSE TS* 2026 · [[Paper]](https://dl.acm.org/doi/10.1145/3770762.3772587)  
+  ![CS Ed Badge](https://img.shields.io/badge/CS%20Ed-blue)
+
+- ***Interactive Theorem Provers for Proof Education***  
+  **Romina Mahinpei**, Manoel Horta Ribeiro, Mae Milano  
+  *SPLASH-E* 2025 · [[Paper]](https://doi.org/10.1145/3758317.3759679) · [[Code]](https://github.com/rmahinpei/itp_proof_education)  
+  ![HCI Badge](https://img.shields.io/badge/HCI-pink) ![CS Ed Badge](https://img.shields.io/badge/CS%20Ed-blue)
+
+- ***An Emergent Bottom-Up Categorization of Students' LLMs Usage in an Undergraduate Research Course***  
+  Ivan Orozco Vasquez\*, **Romina Mahinpei\***, Noureddine Elouazizi, Cristina Conati  
+  *AIED* 2025 · [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-98462-4_17)  
+  ![HCI Badge](https://img.shields.io/badge/HCI-pink)
+
+- ***A Generalized Framework for Describing Question Randomization***  
+  **Romina Mahinpei\***, Iris Xu\*, Steven Wolfman, Firas Moosvi  
+  *ICER* 2025 · [[Paper]](https://dl.acm.org/doi/10.1145/3702652.3744222)  
+  ![CS Ed Badge](https://img.shields.io/badge/CS%20Ed-blue)
+
+### Posters & Workshop Papers
+
+- ***AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education***  
+  **Romina Mahinpei**, Victoria Dean, Ruth Fong, Manoel Horta Ribeiro  
+  *IC2S2* 2026 (non-archival presentation)\
+  ![CSS Badge](https://img.shields.io/badge/CSS-purple) ![HCI Badge](https://img.shields.io/badge/HCI-pink)
+
+- ***CNPE: A Framework for Challenges and Needs in Proof Education***  
+  **Romina Mahinpei**, Sofiia Druchyna, Xinran Bi  
+  *SIGCSE TS* 2026 · [[Poster]](https://dl.acm.org/doi/10.1145/3770761.3777193)\
+  ![CS Ed Badge](https://img.shields.io/badge/CS%20Ed-blue) ![HCI Badge](https://img.shields.io/badge/HCI-pink)
+
+- ***Characterizing the Relationship Between Generative AI, Student Behavior, and Learning Outcomes in Upper-Level CS Education: A Case Study in an Undergraduate Machine Learning Course***  
+  Anha Khan, **Romina Mahinpei**, Maryam Hedayati, Victoria Dean, Ruth Fong  
+  *SIGCSE TS* 2026 · [[Poster]](https://dl.acm.org/doi/abs/10.1145/3770761.3777156)\
+  ![CS Ed Badge](https://img.shields.io/badge/CS%20Ed-blue) 
+
+- ***Provenance Design and Evolution in a Production ML Library***  
+  Adam Craig Pocock, Joseph Wonsil, **Romina Mahinpei**, Jack Sullivan, Margo Seltzer  
+  *CODEML @ ICML* 2025 · [[Workshop Paper]](https://openreview.net/forum?id=VrbDf3UDgv) · [[Code]](https://github.com/oracle/tribuo/tree/main) · [[Tutorial]](https://tribuo.org/learn/4.3/tutorials/modelcard-tribuo-v4.html)
+
+- ***A Generalized Framework for Describing Question Randomization***  
+  **Romina Mahinpei\***, Iris Xu\*, Steven Wolfman, Firas Moosvi  
+  *SIGCSE TS* 2024 · [[Poster]](https://dl.acm.org/doi/10.1145/3626253.3635599) · [[Code]](https://github.com/open-resources/randomization_framework/tree/main) · [[Video]](https://vimeo.com/1105304850)\
+  ![CS Ed Badge](https://img.shields.io/badge/CS%20Ed-blue) 
 
 --------------
 ## Teaching
-As a teaching assistant, I've had the pleasure of assisting with the following courses:
+I've had the pleasure of being a teaching assistant for the following courses:
 
+- **COS 598D Empirical Research Methods in CS**, Princeton (2026)
 - **COS 324 Introduction to Machine Learning**, Princeton (2024-2025)
 - **CPSC 313 Hardware & Operating Systems**, UBC (2023-2024)
 - **CPSC 210 Software Construction & Development**, UBC (2022-2023)
