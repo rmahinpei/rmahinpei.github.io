@@ -2,7 +2,7 @@ I am a first-year PhD student in Computer Science at Princeton University advise
 
 My research has two complementary components: 
 - First, I **study how existing AI-assisted systems influence human behavior and attitudes**, often through controlled experiments and real-world interventions
-- Second, I **design, build, and evaluate more intentional AI-mediated systems that allow users to better express and pursue their goals and intentions**. This often involves collaborating closely with partnering communities to understand users’ challenges and needs, then developing and evaluating new intentional technologies through field deployments and mixed-methods research. 
+- Second, I **design, build, and evaluate more intentional AI-assisted systems that allow users to better express and pursue their goals and intentions**. This often involves collaborating closely with partnering communities to understand users’ challenges and needs, then developing and evaluating new intentional technologies through field deployments and mixed-methods research. 
 
 Across both directions, I combine qualitative, quantitative, and engineering approaches across domains such as education, social media, and online platforms. Beyond my primary research, I also care a lot about teaching, mentorship, and supporting student learning. So from time to time, you will find me contributing to the CS Ed research community through side projects on AI in education, proof education, and learning technologies.
 
