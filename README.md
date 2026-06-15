@@ -12,34 +12,6 @@ Across both directions, I combine qualitative, quantitative, and engineering app
 </div>
 
 --------------
-## Projects
-**Interactive Theorem Provers (ITPs) for Proof Education** [[Paper]](https://doi.org/10.1145/3758317.3759679) [[Code]](https://github.com/rmahinpei/itp_proof_education)\
-![HCI Badge](https://img.shields.io/badge/HCI-pink) ![Systems Badge](https://img.shields.io/badge/Systems-blue)
-- Conducted a user study and case study analyzing how students develop proofs using the [Coq ITP](https://rocq-prover.org/), the [Lean ITP](https://lean-lang.org/), and traditional methods, focusing on usability and support for CS proof techniques.
-- Evaluated Coq and Lean using Nielsen’s usability heuristics to identify challenges such as unclear error messages and limited support for example-driven learning.
-- Synthesized findings to inform improvements to ITP design and provide practical guidance for instructors considering ITPs in CS education.
-
-**An Emergent Bottom-Up Categorization of Students’ LLMs Usage in an Undergraduate Research Course** [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-98462-4_17)\
-![HCI Badge](https://img.shields.io/badge/HCI-pink) ![ML Badge](https://img.shields.io/badge/ML%2FAI-purple)
-- Conducted a thematic analysis of students’ self-reported usage patterns in third-year, multidisciplinary undergraduate research methods course targeting critical thinking skills.
-- Developed a bottom-up categorization of how students use LLMs, grounded in actual student behaviour.
-
-**Provenance Design and Evolution in a Production ML Library** [[Poster]](https://openreview.net/forum?id=VrbDf3UDgv&nesting=2&sort=date-desc) [[Code]](https://github.com/oracle/tribuo/tree/main) [[Tutorial]](https://tribuo.org/learn/4.3/tutorials/modelcard-tribuo-v4.html)\
-![HCI Badge](https://img.shields.io/badge/HCI-pink) ![ML Badge](https://img.shields.io/badge/ML%2FAI-purple) ![Systems Badge](https://img.shields.io/badge/Systems-blue)
-- Studied the current state of data workflows across users from academia (N = 6) and industry (N = 6) and identified ways in which data provenance could simplify those workflows.
-- Designed, implemented, and tested the Model Card package for [Tribuo](https://tribuo.org/), Oracle’s open-source Java ML library, to allow Tribuo users to create partially automated machine learning model documentation.
-
-**A Generalized Framework for Describing Question Randomization** [[Paper]](https://dl.acm.org/doi/10.1145/3702652.3744222) [[Poster]](https://dl.acm.org/doi/10.1145/3626253.3635599) [[Code]](https://github.com/open-resources/randomization_framework/tree/main) [[Video]](https://vimeo.com/1105304850) \
-![HCI Badge](https://img.shields.io/badge/HCI-pink)
-- Conducted a thematic analysis of computer-based assessment questions in two undergraduate CS courses to investigate how instructors integrate randomization into their digital assessment questions.
-- Developed a six-level framework to systematically categorize these randomization strategies and validated the framework by applying it to questions from an undergraduate data structures course (N = 86) and an undergraduate computer systems course (N = 100), assessing inter-rater reliability using percentage agreement and Gwet’s AC1 coefficient.
-
-**Mixed Precision Minimal Residual (MINRES) Method** [[Paper]](https://siam-web.useast01.umbraco.io/media/g4ypl0f2/s167848r.pdf) [[Code]](https://github.com/rmahinpei/mixed-precision-minres)\
-![Systems Badge](https://img.shields.io/badge/Systems-blue) 
-- Developed two mixed precision variants of the Minimal Residual (MINRES) method for solving sparse saddle-point linear systems, allowing users to adjust the precision of preconditioner solves and matrix-vector products.
-- Implemented these variants and a baseline version using CUDA C and conducted a comparative performance study on NVIDIA's GeForce RTX 3070 Ti, evaluating speed-up across three Maxwell and three Stokes saddle-point systems.
-
---------------
 ## Publications
 ### Manuscripts
 
