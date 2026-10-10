@@ -1,6 +1,8 @@
 I am a first-year PhD student in Computer Science at Princeton University advised by [Prof. Manoel Horta Ribeiro](https://www.cs.princeton.edu/people/profile/mh3586) and [Prof. Andrés Monroy-Hernández](https://www.cs.princeton.edu/people/profile/andresmh). My research sits at the intersection of **human-centered AI (HAI)**, **human-computer interaction (HCI)**, and **computational social science (CSS)**.
 
-I study *how AI shapes people's attitudes, behaviors, and participation in everyday activities, and how we can design AI systems that better support human agency*. I explore these directions across a range of domains, including online communities, education, and social media. My work often combines **qualitative**, **quantitative**, and **technical** approaches, including field experiments, mixed-methods studies, and the design and evaluation of interactive systems. 
+I study **how AI shapes people's attitudes, behaviors, and participation in everyday activities, and how we can design AI systems that better support human agency**. I explore these directions across a range of domains, including online communities, education, and social media. My work often combines qualitative, quantitative, and technical approaches, including field experiments, mixed-methods studies, and the design and evaluation of interactive systems. 
+
+Beyond my primary research, I am passionate about teaching and mentorship, and occasionally contribute to CS education research, particularly around AI in education, proof education, and learning technologies.
 
 <div style="text-align: center;">
 <a href="mailto:rmahinpei@princeton.edu">Email</a> | <a href="assets/files/CV.pdf">CV</a> | <a href="https://www.linkedin.com/in/rmahinpei/">LinkedIn</a> | <a href="https://orcid.org/0000-0002-7500-5928">OrcID</a> | <a href="https://scholar.google.com/citations?user=oFp44rMAAAAJ">Google Scholar</a>
@@ -13,7 +15,7 @@ I study *how AI shapes people's attitudes, behaviors, and participation in every
 
 - ***"Okay, I've Actually Softened My Take on This": How People in Decentralized Social Media Reason about the Appropriateness of Generative AI.***  
   **Romina Mahinpei**, Manoel Horta Ribeiro, Andrés Monroy-Hernández, Sohyeon Hwang  
-  *Under review* · [[Preprint]](https://arxiv.org/abs/2606.03095) 
+  *Under review* · [[Preprint]](https://arxiv.org/abs/2606.03095)\
   ![HCI Badge](https://img.shields.io/badge/HCI-pink)
 
 - ***AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education***  
