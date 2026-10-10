@@ -1,10 +1,6 @@
-I am a first-year PhD student in Computer Science at Princeton University advised by [Prof. Manoel Horta Ribeiro](https://www.cs.princeton.edu/people/profile/mh3586) and [Prof. Andrés Monroy-Hernández](https://www.cs.princeton.edu/people/profile/andresmh). My research sits at the intersection of **human-computer interaction (HCI)**, **computational social science (CSS)**, and **human-centered AI (HAI)**.
+I am a first-year PhD student in Computer Science at Princeton University advised by [Prof. Manoel Horta Ribeiro](https://www.cs.princeton.edu/people/profile/mh3586) and [Prof. Andrés Monroy-Hernández](https://www.cs.princeton.edu/people/profile/andresmh). My research sits at the intersection of **human-centered AI (HAI)**, **human-computer interaction (HCI)**, and **computational social science (CSS)**.
 
-My research has two complementary components: 
-- First, I **study how existing AI-assisted systems influence human behavior and attitudes**, often through controlled experiments and real-world interventions
-- Second, I **design, build, and evaluate more intentional AI-assisted systems that allow users to better express and pursue their goals and intentions**. This often involves collaborating closely with partnering communities to understand users’ challenges and needs, then developing and evaluating new intentional technologies through field deployments and mixed-methods research. 
-
-Across both directions, I combine qualitative, quantitative, and engineering approaches across domains such as education, social media, and online platforms. Beyond my primary research, I also care a lot about teaching, mentorship, and supporting student learning. So from time to time, you will find me contributing to the CS Ed research community through side projects on AI in education, proof education, and learning technologies.
+I study *how AI shapes people's attitudes, behaviors, and participation in everyday activities, and how we can design AI systems that better support human agency*. I explore these directions across a range of domains, including online communities, education, and social media. My work often combines **qualitative**, **quantitative**, and **technical** approaches, including field experiments, mixed-methods studies, and the design and evaluation of interactive systems. 
 
 <div style="text-align: center;">
 <a href="mailto:rmahinpei@princeton.edu">Email</a> | <a href="assets/files/CV.pdf">CV</a> | <a href="https://www.linkedin.com/in/rmahinpei/">LinkedIn</a> | <a href="https://orcid.org/0000-0002-7500-5928">OrcID</a> | <a href="https://scholar.google.com/citations?user=oFp44rMAAAAJ">Google Scholar</a>
@@ -15,9 +11,14 @@ Across both directions, I combine qualitative, quantitative, and engineering app
 ## Publications
 ### Manuscripts
 
+- ***"Okay, I've Actually Softened My Take on This": How People in Decentralized Social Media Reason about the Appropriateness of Generative AI.***  
+  **Romina Mahinpei**, Manoel Horta Ribeiro, Andrés Monroy-Hernández, Sohyeon Hwang  
+  *Under review* · [[Preprint]](https://arxiv.org/abs/2606.03095) 
+  ![HCI Badge](https://img.shields.io/badge/HCI-pink)
+
 - ***AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education***  
   **Romina Mahinpei**, Victoria Dean, Ruth Fong, Lydia T. Liu, Manoel Horta Ribeiro  
-  *Under review* · [[Paper]](https://arxiv.org/abs/2606.03095) · [[Code]](https://github.com/humans-and-machines/ai-feedback-provision)  
+  *Under review* · [[Preprint]](https://arxiv.org/abs/2606.03095) · [[Code]](https://github.com/humans-and-machines/ai-feedback-provision)  
   ![CSS Badge](https://img.shields.io/badge/CSS-purple) ![HCI Badge](https://img.shields.io/badge/HCI-pink)
 
 ### Conference Papers
@@ -43,6 +44,11 @@ Across both directions, I combine qualitative, quantitative, and engineering app
   ![CS Ed Badge](https://img.shields.io/badge/CS%20Ed-blue)
 
 ### Posters & Workshop Papers
+
+- ***How Children Collaborate within Programmable AR Environments with Co-Located Collaborative Features***  
+  **Romina Mahinpei**, Diya Ajay Hundiwala, Sandy Zhang, Lana Glisic, Andrés Monroy-Hernández 
+  *CSCW* 2026 · [[Poster]](https://dl.acm.org/doi/10.1145/3785651.3831503)\
+  ![HCI Badge](https://img.shields.io/badge/HCI-pink)
 
 - ***AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education***  
   **Romina Mahinpei**, Victoria Dean, Ruth Fong, Manoel Horta Ribeiro  
