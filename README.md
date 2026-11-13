@@ -15,7 +15,7 @@ Beyond my primary research, I am passionate about teaching and mentorship, and o
 
 - ***"Okay, I've Actually Softened My Take on This": How People in Decentralized Social Media Reason about the Appropriateness of Generative AI.***  
   **Romina Mahinpei**, Manoel Horta Ribeiro, Andrés Monroy-Hernández, Sohyeon Hwang  
-  *Under review* · [[Preprint]](https://arxiv.org/abs/2606.03095)\
+  *Under review* · [[Preprint]](https://arxiv.org/abs/2609.18709)\
   ![HCI Badge](https://img.shields.io/badge/HCI-pink)
 
 - ***AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education***  
